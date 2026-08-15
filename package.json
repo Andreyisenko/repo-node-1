@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "get-all": "node src/scripts/getAllContacts",
+    "read": "node src/utils/readContacts",
     "generate": "node src/scripts/generateContacts.js",
     "add-one": "node src/scripts/addOneContact.js",
     "count": "node src/scripts/countContacts.js",
